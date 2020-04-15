@@ -1,0 +1,22 @@
+{
+  "name": "ds-js-utils",
+  "version": "1.0.0",
+  "description": "DS.关于个人总结的JavaScript开发常用工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18173314470/ds-js-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "邓杉",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/18173314470/ds-js-utils/issues"
+  },
+  "homepage": "https://github.com/18173314470/ds-js-utils#readme"
+}
